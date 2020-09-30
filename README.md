@@ -11,7 +11,3 @@
 ## Usage
 ```javascript
 import MicrophoneStream from 'react-native-microphone-stream';
-
-// TODO: What to do with the module?
-MicrophoneStream;
-```
