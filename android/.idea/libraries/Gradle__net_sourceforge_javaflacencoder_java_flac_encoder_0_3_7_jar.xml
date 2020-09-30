@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.sourceforge.javaflacencoder:java-flac-encoder:0.3.7@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.javaflacencoder/java-flac-encoder/0.3.7/1c5ae8998ff124d619bdc68eed52ad491f22eda3/java-flac-encoder-0.3.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.javaflacencoder/java-flac-encoder/0.3.7/8a8e78215d934f7662f9fba8932fc3c1753ed6be/java-flac-encoder-0.3.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
